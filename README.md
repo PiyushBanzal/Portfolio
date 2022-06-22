@@ -1,2 +1,6 @@
-# Portfolio
-I'm looking to expand my portfolio while I'm on top and while I'm young.
+Responsive Portfolio website using Html, Css and JavaScript....
+
+
+__==...Screenshot...|==__
+
+https://postimg.cc/gallery/xfXtwSB
